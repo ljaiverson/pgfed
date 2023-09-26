@@ -1,0 +1,4 @@
+scikit_learn==1.1.1
+torch==1.4.0
+torchvision==0.5.0
+medmnist==2.1.0
